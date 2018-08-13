@@ -1,0 +1,11 @@
+menu #help=true
+info #help=true
+help #help=true
+more #help=true
+I need help #help=true
+What can you do? #help=true
+ask question #question=true
+explore #question=true
+seed #question=true
+start chatting #chatting=true
+end #stopdiscussion=true
